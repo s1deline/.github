@@ -1,3 +1,5 @@
-# click this
+# Sideline
 
-[![click me](https://img.youtube.com/vi/lw9UjXb0_44/0.jpg)](https://www.youtube.com/watch?v=lw9UjXb0_44)
+## legal
+
+Sideline is not affiliated with Discord or any third-party services we investigate. all activities are for educational and research purposes only.
